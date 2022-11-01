@@ -1,5 +1,5 @@
 # Fake-News-Classifier
-This is a classifier that predicts if a news is real or fake
+This is a classifier that predicts if news is real or fake
 
 dataset : https://www.kaggle.com/competitions/fake-news/data 
 
